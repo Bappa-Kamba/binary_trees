@@ -18,6 +18,5 @@ int main(void)
     binary_tree_insert_right(root, 128);
     binary_tree_print(root);
     binary_tree_delete(root);
-    binary_tree_print(root);
     return (0);
 }
